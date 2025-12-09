@@ -7,7 +7,7 @@ The goal is to evaluate how traditional approaches such as **ARIMA** perform rel
 ## Project Overview
 The repository contains multiple notebooks that walk through the full workflow:
 
-### ** Data Preparation & EDA**
+### Data Preparation & EDA
 - Loading and cleaning the Index 2018 dataset  
 - Handling missing values  
 - Time-series visualization and decomposition  
