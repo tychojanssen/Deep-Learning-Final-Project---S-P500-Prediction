@@ -1,5 +1,3 @@
-# Deep-Learning-Final-Project---S&P 500-Prediction
-
 # Time Series Forecasting: Index 2018 Dataset  
 This project compares **classical statistical models** and **deep learning architectures** for time series forecasting using the *Index 2018 dataset*.  
 The goal is to evaluate how traditional approaches such as **ARIMA** perform relative to modern sequence models such as **LSTM**, **GRU**, and **Transformers**.
