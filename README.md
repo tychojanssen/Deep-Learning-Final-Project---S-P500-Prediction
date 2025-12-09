@@ -7,7 +7,7 @@ The goal is to evaluate how traditional approaches such as **ARIMA** perform rel
 ## Project Overview
 The repository contains multiple notebooks that walk through the full workflow:
 
-### **1. Data Preparation & EDA**
+### ** Data Preparation & EDA**
 - Loading and cleaning the Index 2018 dataset  
 - Handling missing values  
 - Time-series visualization and decomposition  
@@ -17,25 +17,25 @@ The repository contains multiple notebooks that walk through the full workflow:
 
 ## Models Implemented
 
-### ** ARIMA (Classical Statistical Model)**
+### ARIMA (Classical Statistical Model)
 - Full differencing and stationarity checks  
 - ACF/PACF analysis  
 - Model fitting and residual diagnostics  
 - Baseline performance metric
 
-### ** LSTM (Long Short-Term Memory)**
+### LSTM (Long Short-Term Memory)
 - Sequence windowing  
 - Multi-layer LSTM architecture  
 - Dropout regularization  
 - Adam optimization  
 - Performance measured on predictions vs. actual values  
 
-### ** GRU (Gated Recurrent Unit)**
+### GRU (Gated Recurrent Unit)
 - GRU-based sequential model  
 - Tuned hidden units and learning rate  
 - Faster training vs. LSTM with comparable accuracy  
 
-### ** Transformer Model**
+### Transformer Model
 - Encoder-only time-series forecasting transformer  
 - Multi-head attention layers  
 - Positional embeddings  
